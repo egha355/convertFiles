@@ -7,3 +7,4 @@ This line is difference between mySecond_branch and secondCopy
 # some changes to mySecond_branch
 # secondCopy does not know about this line
 # This is an additional line
+
