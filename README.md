@@ -6,3 +6,6 @@ Contributors:
 This line is added to mySecond_branch and it is not in master branch
 # some changes to secondCopy
 # mySecond_branch does not know about this line
+# add line1
+# add line2
+# add line3
